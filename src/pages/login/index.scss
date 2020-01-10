@@ -1,0 +1,39 @@
+.rcut-login {
+  padding: 0 40px;
+  height: 100vh;
+  background-color: #fff;
+  overflow: hidden;
+  .rcut-title {
+    margin: 96px 0;
+    color: #181c61;
+    text-align: center;
+    font: 600 36px/40px "微软雅黑";
+  }
+  .recut-welc {
+    font: 500 48px/66px "微软雅黑";
+    margin-bottom: 76px;
+  }
+  .input-box {
+    height: 100px;
+    align-items: center;
+    display: flex;
+    border-bottom: 2px solid #d6e4ef;
+  }
+  .input {
+    font: 32px/32px "微软雅黑";
+  }
+  .get-num {
+    border: none;
+    line-height: 60px;
+  }
+  .sign-btn {
+    height: 88px;
+    width: 600px;
+    margin: 130px auto 40px auto;
+    border: none;
+    border-radius: 80px;
+    background-color: #2451f0;
+    font: 36px/88px "微软雅黑";
+    color: #fff;
+  }
+}
